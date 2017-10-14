@@ -1,0 +1,7 @@
+C:\Users\Alex Chiurtu\source\repos\Random-Numbers\Random-Numbers\bin\Debug\Random-Numbers.exe.config
+C:\Users\Alex Chiurtu\source\repos\Random-Numbers\Random-Numbers\bin\Debug\Random-Numbers.exe
+C:\Users\Alex Chiurtu\source\repos\Random-Numbers\Random-Numbers\bin\Debug\Random-Numbers.pdb
+C:\Users\Alex Chiurtu\source\repos\Random-Numbers\Random-Numbers\obj\Debug\Random-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Alex Chiurtu\source\repos\Random-Numbers\Random-Numbers\obj\Debug\Random-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Alex Chiurtu\source\repos\Random-Numbers\Random-Numbers\obj\Debug\Random-Numbers.exe
+C:\Users\Alex Chiurtu\source\repos\Random-Numbers\Random-Numbers\obj\Debug\Random-Numbers.pdb
