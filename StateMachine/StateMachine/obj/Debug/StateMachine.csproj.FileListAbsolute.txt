@@ -1,0 +1,7 @@
+C:\Users\Alexandru\Desktop\Workspace\Modeling And Simulating\StateMachine\StateMachine\bin\Debug\StateMachine.exe.config
+C:\Users\Alexandru\Desktop\Workspace\Modeling And Simulating\StateMachine\StateMachine\bin\Debug\StateMachine.exe
+C:\Users\Alexandru\Desktop\Workspace\Modeling And Simulating\StateMachine\StateMachine\bin\Debug\StateMachine.pdb
+C:\Users\Alexandru\Desktop\Workspace\Modeling And Simulating\StateMachine\StateMachine\obj\Debug\StateMachine.csprojResolveAssemblyReference.cache
+C:\Users\Alexandru\Desktop\Workspace\Modeling And Simulating\StateMachine\StateMachine\obj\Debug\StateMachine.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru\Desktop\Workspace\Modeling And Simulating\StateMachine\StateMachine\obj\Debug\StateMachine.exe
+C:\Users\Alexandru\Desktop\Workspace\Modeling And Simulating\StateMachine\StateMachine\obj\Debug\StateMachine.pdb
