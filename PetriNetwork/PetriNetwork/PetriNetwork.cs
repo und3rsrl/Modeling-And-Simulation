@@ -15,8 +15,9 @@ namespace PetriNetwork
 
         public void Execute(string actiune)
         {
+            _validTransitions.Clear();
             foreach (Transition transition in Transitions)
-            {
+            {   
                 if (transition.Tag == actiune && transition.IsValid())
                 {
                     _validTransitions.Add(transition);
