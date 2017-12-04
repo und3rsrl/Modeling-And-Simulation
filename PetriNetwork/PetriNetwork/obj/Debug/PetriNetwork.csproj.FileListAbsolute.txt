@@ -5,3 +5,10 @@ C:\Users\Alexandru\Desktop\Workspace\Modeling And Simulating\PetriNetwork\PetriN
 C:\Users\Alexandru\Desktop\Workspace\Modeling And Simulating\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.csproj.CoreCompileInputs.cache
 C:\Users\Alexandru\Desktop\Workspace\Modeling And Simulating\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.exe
 C:\Users\Alexandru\Desktop\Workspace\Modeling And Simulating\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.pdb
+C:\Users\Alexandru\Documents\Repositories\PetriNetwork\PetriNetwork\bin\Debug\PetriNetwork.exe.config
+C:\Users\Alexandru\Documents\Repositories\PetriNetwork\PetriNetwork\bin\Debug\PetriNetwork.exe
+C:\Users\Alexandru\Documents\Repositories\PetriNetwork\PetriNetwork\bin\Debug\PetriNetwork.pdb
+C:\Users\Alexandru\Documents\Repositories\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Alexandru\Documents\Repositories\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru\Documents\Repositories\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.exe
+C:\Users\Alexandru\Documents\Repositories\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.pdb
