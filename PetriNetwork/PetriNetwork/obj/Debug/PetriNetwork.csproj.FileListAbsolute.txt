@@ -12,3 +12,11 @@ C:\Users\Alexandru\Documents\Repositories\PetriNetwork\PetriNetwork\obj\Debug\Pe
 C:\Users\Alexandru\Documents\Repositories\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.csproj.CoreCompileInputs.cache
 C:\Users\Alexandru\Documents\Repositories\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.exe
 C:\Users\Alexandru\Documents\Repositories\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.pdb
+D:\Workspace\Modeling-And-Simulation\PetriNetwork\PetriNetwork\bin\Debug\PetriNetwork.exe.config
+D:\Workspace\Modeling-And-Simulation\PetriNetwork\PetriNetwork\bin\Debug\PetriNetwork.exe
+D:\Workspace\Modeling-And-Simulation\PetriNetwork\PetriNetwork\bin\Debug\PetriNetwork.pdb
+D:\Workspace\Modeling-And-Simulation\PetriNetwork\PetriNetwork\bin\Debug\PetriNetwork.exe.CodeAnalysisLog.xml
+D:\Workspace\Modeling-And-Simulation\PetriNetwork\PetriNetwork\bin\Debug\PetriNetwork.exe.lastcodeanalysissucceeded
+D:\Workspace\Modeling-And-Simulation\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.csproj.CoreCompileInputs.cache
+D:\Workspace\Modeling-And-Simulation\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.exe
+D:\Workspace\Modeling-And-Simulation\PetriNetwork\PetriNetwork\obj\Debug\PetriNetwork.pdb
